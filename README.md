@@ -1,16 +1,12 @@
-### Hi there 👋
+### Ciao a tutti! 👋
+<br>
+-🏙️ Vivo a Pisa.<br>
+-👦 Ho 17 anni.<br>
+-📜 Studio all'ITIS Leonardo Da Vinci.<br>
+-⚽ Il mio sport preferito è il calcio.<br>
+-💻 Attualmente sto imparando l'hmtl, css e c++.
+<br>
+📚 Obiettivo del 2020 📚<br>
+Imparare il Java, Java script e concludere un progetto personale che porto avanti da 1 anno.
 
-<!--
-**Tommaso-Parenti/Tommaso-Parenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
