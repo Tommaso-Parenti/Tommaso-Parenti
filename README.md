@@ -6,7 +6,7 @@
 -⚽ Il mio sport preferito è il calcio.<br>
 -💻 Attualmente sto imparando l'hmtl, css e c++.<br>
 <br>
-📚 Obiettivo del 2020 📚<br>
+📚 Obiettivo del 2021 📚<br>
 Imparare il Java, Java script e concludere un progetto personale che porto avanti da 1 anno.
 
 
